@@ -1,0 +1,5 @@
+num1= float(input("geef nummer 1"))
+num2= float(input("geef nummer 2"))
+num3= float(input("geef nummer 3"))
+totaal= float(num1+num2+num3)
+print("{0:.4f}".format(totaal/3))
